@@ -1,3 +1,4 @@
+import "./assets/styles/custom.scss";
 import "./App.css";
 
 export default function App() {
