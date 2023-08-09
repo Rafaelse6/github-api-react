@@ -1,15 +1,13 @@
 import "./assets/styles/custom.scss";
 import "./App.css";
 import Navbar from "components/Navbar";
-import HomeTexts from "pages/Home/HomeTexts";
-import HomeButton from "pages/Home/HomeButton";
+import Home from "pages/Home";
 
 export default function App() {
   return (
     <>
       <Navbar />
-      <HomeTexts />
-      <HomeButton />
+      <Home />
     </>
   );
 }
