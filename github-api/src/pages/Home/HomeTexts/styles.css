@@ -1,0 +1,21 @@
+h1 {
+  color: #000;
+  margin-top: 27px;
+  margin-left: 41px;
+  font-size: 48px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 64px;
+  letter-spacing: 0.96px;
+}
+
+h2 {
+  color: #7e7e7e;
+  font-size: 24px;
+  margin-left: 41px;
+  margin-bottom: 27px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 40px;
+  letter-spacing: 0.48px;
+}
