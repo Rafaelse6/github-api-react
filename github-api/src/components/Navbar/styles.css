@@ -1,0 +1,12 @@
+.main-nav {
+  height: 62px;
+  padding-left: 40px;
+}
+
+.main-nav h4 {
+  color: #fff;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 32px;
+}
